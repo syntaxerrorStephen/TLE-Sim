@@ -21,10 +21,19 @@ Ensure you have Python installed (Python 3.7+ recommended). You also need `pip` 
    ```
 
 2. Create a virtual environment:
+
+   Mac:
    ```sh
    python -m venv venv
    source venv/bin/activate
    ```
+
+   Windows:
+   ```sh
+   python -m venv venv
+   venv\Scripts\Activate.ps1
+   ```
+
 
 3. Install dependencies:
    ```sh

@@ -16,7 +16,7 @@ Ensure you have Python installed (Python 3.7+ recommended). You also need `pip` 
 ### Steps
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/satellite-orbit-visualization.git
+   git clone https://github.com/syntaxerrorStephen/TLE-Sim.git
    cd satellite-orbit-visualization
    ```
 

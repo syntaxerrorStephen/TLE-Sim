@@ -17,7 +17,7 @@ Ensure you have Python installed (Python 3.7+ recommended). You also need `pip` 
 1. Clone this repository:
    ```sh
    git clone https://github.com/syntaxerrorStephen/TLE-Sim.git
-   cd satellite-orbit-visualization
+   cd TLE-Sim
    ```
 
 2. Create a virtual environment:
